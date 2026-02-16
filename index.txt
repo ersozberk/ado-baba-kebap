@@ -6,13 +6,13 @@ This is a Restaurant html template made by codewithsadee
 
 #---------- TOP BAR ----------#
 
-<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="location-outline" aria-hidden="true"        ></ion-icon>
 Restaurant St, Delicious City, London 9578, UK
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
 
-<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="calllkn-outline" aria-hidden="true"></ion-icon>
 +1 123 456 7890
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
